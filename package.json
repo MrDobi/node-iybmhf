@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+  },
+  "scripts": {
+    "dev": "node index.js",
+    "start": "node index.js"
+  }
+}
